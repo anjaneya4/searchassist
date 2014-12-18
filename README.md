@@ -1,4 +1,6 @@
 searchassist
 ============
 
-assists in searching keys occurinf in a document.
+ 
+this program is a browser addon which
+assists in searching keys occuring in a document.
